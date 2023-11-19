@@ -14,8 +14,8 @@ Run `yarn test` to execute the tests once. For continuous testing while monitori
 
 [Whitespace](http://compsoc.dur.ac.uk/whitespace/tutorial.php) is an esoteric programming language that uses only three characters:
 
-`[space]` or `" "` (ASCII 32)
-`[tab]` or `"\t"` (ASCII 9)
+`[space]` or `" "` (ASCII 32)  
+`[tab]` or `"\t"` (ASCII 9)  
 `[line-feed]` or `"\n"` (ASCII 10)
 All other characters may be used for comments. The interpreter ignores them.
 

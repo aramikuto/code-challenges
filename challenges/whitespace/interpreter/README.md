@@ -4,7 +4,7 @@ This project involves an ongoing implementation of a TypeScript interpreter desi
 
 **Note**: _This project is currently a work in progress._
 
-The compiler can be located in the [adjacent folder](../compiler/).
+The transpiler can be located in the [adjacent folder](https://github.com/aramikuto/whitescape).
 
 ## Usage
 

@@ -1,0 +1,3 @@
+[submodule "challenges/whitespace/transpiler"]
+	path = challenges/whitespace/transpiler
+	url = https://github.com/aramikuto/whitescape.git
